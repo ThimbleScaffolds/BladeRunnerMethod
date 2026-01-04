@@ -1,7 +1,3 @@
-🔁 Reprint — BladeRunnerMethod (Magnetic 9.3 Version)
-
-Paste this as your README:
-
 BladeRunnerMethod
 
 A small experiment in making AI mirror human thinking — clearly, safely, and without mysticism.
